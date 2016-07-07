@@ -1,4 +1,4 @@
-function wrong = Lost_Dart(pS, pE, ori, CW)  @@
+function wrong = Lost_Dart(pS, pE, ori, CW)  
 
 
 
